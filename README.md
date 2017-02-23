@@ -1,4 +1,8 @@
-# training-virtualbox-setup
+# Training VirtualBox
+
+## Software
+
+- [Sublime Text](https://www.sublimetext.com/)
 
 ## Shell Environment
 
